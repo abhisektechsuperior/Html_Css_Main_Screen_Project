@@ -60,6 +60,11 @@
 .hiddenarrowcontent {
   padding-top: 15%;
 }
+.hiddenimageleft {
+  height: 4vh;
+  justify-content: center;
+  align-items: center;
+}
 
 .topnav .icon {
   display: none;
