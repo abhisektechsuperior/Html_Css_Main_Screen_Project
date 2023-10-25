@@ -461,6 +461,10 @@ justify-content: space-evenly;
   animation: zoom-in-zoom-out 0.7s ease infinite;
 }
 .findcontainer {
+  margin-top: 3%; 
+  display:flex;
+  justify-content: center;
+  text-align: center;
   animation: zoom-in-zoom-out 0.7s ease infinite;
 }
 
